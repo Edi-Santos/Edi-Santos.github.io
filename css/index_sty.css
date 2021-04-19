@@ -9,29 +9,31 @@ img {
 
 /* Classes */
 .apresentation {
+    width: 70%;
     margin: auto;
-    width: 60%;
 }
 
 .apresentation p, h4 {
-    width: 30%;
+    margin: 15px auto;
+    width: 70%;
     text-align: center;
+    position: relative;
+    bottom: 35px;
 }
 
 .brief-apresentation {
-    
+    margin: 0 0 0 20%;
 }
 
 .img-apresentation {
-    
+    display: inline-block;
+    margin: auto;
 }
 
 .text-apresentation {
-
-}
-
-.skills {
-    
+    display: inline-block;
+    width: 50%;
+    margin: auto;
 }
 
 .title {

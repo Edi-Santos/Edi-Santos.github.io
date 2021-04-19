@@ -1,0 +1,41 @@
+/* TAGs */
+* {
+    background-color: rgb(215, 248, 248);
+}
+
+img {
+    border-radius: 50%;
+}
+
+/* Classes */
+.apresentation {
+    margin: auto;
+    width: 60%;
+}
+
+.apresentation p, h4 {
+    width: 30%;
+    text-align: center;
+}
+
+.brief-apresentation {
+    
+}
+
+.img-apresentation {
+    
+}
+
+.text-apresentation {
+
+}
+
+.skills {
+    
+}
+
+.title {
+    margin: 20px 0 30px;
+    text-align: center;
+}
+/* Ids */
